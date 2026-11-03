@@ -14,7 +14,7 @@ http:
       service: ssh
 
     prometric:
-      rule: "Host(`prometric.cleverapps.io`)"
+      rule: "Host(`clarity.cleverapps.io`)"
       service: prometric
 
   services:
